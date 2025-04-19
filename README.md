@@ -14,7 +14,7 @@ A high-performance solver for the **Elementary Shortest Path Problem with Resour
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/espprc_project.git
+git clone https://github.com/rezamirjaliliphd/espprc_project.git
 cd espprc_project
 ```
 
