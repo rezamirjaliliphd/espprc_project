@@ -62,10 +62,6 @@ r = np.random.rand(n, n, n_res + 1) * 10
 r_max = np.array([15.0] * n_res)
 
 esp = ESPPRC(r_max=r_max, r=r)
-esp.cg_dual = np.random.rand(n)
-esp.wh_dual = np.random.rand(n_res)
-esp.wh_pi = np.array([0.5] * n_res)
-
 esp.solve()
 
 print("Best Path(s):", esp.best_path)
