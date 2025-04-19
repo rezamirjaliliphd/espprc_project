@@ -1,7 +1,3 @@
-Here's a clean, professional `README.md` file for your GitHub repository:
-
----
-
 ### 📄 `README.md`
 
 ```markdown
